@@ -1,0 +1,22 @@
+MI = {
+		M01 : 'Operação realizada com sucesso!',
+		M02 : 'Idioma e/ou Sigla já cadastrados',
+		M03 : 'Campos obrigatórios não informados',
+		M04 : 'Confirma a exclusão do idioma?',
+		M05 : 'Senha não confere',
+		M06 : 'Salvando...',
+		M07 : 'Usuário já cadastrado',
+		M08 : 'Pelo menos um campo deve ser preenchido',
+		M09 : 'Confirma a exclusão da categoria?',
+		M10 : 'Confirma a inclusão do contato?',
+		M11 : 'Confirma a exclusão do contato?',
+		M12 : 'Confirma a alteração do contato?',
+		M13 : 'Contato já cadastrado com esse E-mail!',
+		M14 : 'O campo email deve conter um email válido.',
+		M15 : 'Existe um produto utilizando essa categoria, exclusão cancelada.',
+		M16 : 'E-mail ou senha inválidos.',
+		M17 : 'Confirma a exclusão?',
+		M18 : 'Confirma a exclusão do produto?',
+		M19 : 'Confirma a exclusão da especificação?',
+		M20 : 'Existe um produto utilizando essa especificação, exclusão cancelada.'
+}
